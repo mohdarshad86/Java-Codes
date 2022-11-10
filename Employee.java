@@ -51,6 +51,7 @@ class EmployeeDetails {
 
 public class Employee {
     public static void main(String[] args) {
+
         EmployeeDetails emp = new EmployeeDetails();
 
         emp.setEmp_id(101);
